@@ -1,4 +1,4 @@
-# Hi, I'm Mohand Thabet 👋
+# Hi, I'm Mohannad AL- Buhari👋
 
 IT student and aspiring software developer.
 Interested in Web development, databases, and building real projects.
