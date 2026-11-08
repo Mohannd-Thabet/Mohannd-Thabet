@@ -56,41 +56,45 @@
   
   - A personal portfolio showcasing my skills, projects, and certifications, featuring a Full-Stack admin dashboard.
 
----
+___
+<h2 align="center">📫 Connect With Me</h2>
 
-<h2 align="center">📫 Connect With Me</h2><!-- First Row: 4 Social Icons --><p align="center">
+<p align="center">
   <a href="mailto:mohannad.buhari@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="45" alt="Gmail" />
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="58" alt="Gmail" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Mohannd-Thabet">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="45" alt="GitHub" />
+    <img src="https://img.icons8.com/fluency/96/github.png" width="58" alt="GitHub" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mohannad-al-buhari-129a35296/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="45" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="58" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/967777319732">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" height="45" alt="WhatsApp" />
+    <img src="https://img.icons8.com/color/96/whatsapp.png" width="58" alt="WhatsApp" />
   </a>
-</p><!-- Second Row: 4 Social Icons --><p align="center">
+</p>
+
+<p align="center">
   <a href="https://t.me/Mohannad_Albuari">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" height="45" alt="Telegram" />
+    <img src="https://img.icons8.com/color/96/telegram-app.png" width="58" alt="Telegram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/il_70_o/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="45" alt="Instagram" />
+    <img src="https://img.icons8.com/color/96/instagram-new.png" width="58" alt="Instagram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1KBDCDmaJq/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" height="45" alt="Facebook" />
+    <img src="https://img.icons8.com/color/96/facebook-new.png" width="58" alt="Facebook" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://portfolio-omega-sandy-duqydni4r3.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" height="45" alt="Portfolio" />
+    <img src="https://img.icons8.com/color/96/google-logo.png" width="58" alt="Portfolio" />
   </a>
-</p>---
+</p>
+___
 
 <h3 align="center">🤝 Let's Connect, Collaborate & Build Something Great!</h3><p align="center">
   <i>Always learning. Always building. Always moving forward.</i>
