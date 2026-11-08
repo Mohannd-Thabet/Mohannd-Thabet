@@ -1,33 +1,16 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=200&section=header&text=MOHANNAD%20AL-BUHARI&fontSize=36&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Mohannad AL-Buhari Header" />
-</p>
-
-<h3 align="center">
+<!-- Animated Header --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:2563EB,100:06B6D4&amp;height=200&amp;section=header&amp;text=MOHANNAD%20AL-BUHARI&amp;fontSize=36&amp;fontColor=FFFFFF&amp;animation=fadeIn" width="100%" alt="Mohannad AL-Buhari Header" />
+</p><h3 align="center">
   💻 Mobile App Developer | Full-Stack Web Developer | AI & Automation Enthusiast
-</h3>
+</h3><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Building+Modern+Web+Applications;Developing+Mobile+Experiences;Exploring+AI+%26+Automation;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
+</p><p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohannd-Thabet&amp;label=PROFILE+VIEWS&amp;color=2563EB&amp;style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/IT%20Engineer-2026%20Graduate-2563EB?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="IT Engineer" />
+  <img src="https://img.shields.io/badge/Location-Sanaa%2C%20Yemen-06B6D4?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="Location" />
+</p>---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Developing+Mobile+Experiences;Exploring+AI+%26+Automation;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohannd-Thabet&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/developer.png" width="28" alt="IT Engineer" />
-  <strong>IT Engineer | 2026 Graduate</strong>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/marker.png" width="28" alt="Location" />
-  <strong>Sanaa, Yemen</strong>
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, passionate about building modern web and mobile applications and developing innovative technology solutions.
+<h2 align="center">👨‍💻 About Me</h2>I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, passionate about building modern web and mobile applications and developing innovative technology solutions.
 
 - 💻 Interested in frontend development using React.js and JavaScript.
 - ⚙️ Interested in backend development using Node.js, Express.js, and REST APIs.
@@ -39,123 +22,83 @@ I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, pa
 
 ---
 
-<h2 align="center">🛠️ Languages, Technologies & Tools</h2>
+<h2 align="center">🛠️ Languages, Technologies & Tools</h2><p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express,mongodb,mysql,python,git,github,vscode&amp;perline=7" alt="Languages and Tools" />
+</p><h3 align="center">💡 Areas of Interest</h3><p align="center">
+  <img src="https://img.shields.io/badge/IT%20Support-Technical%20Support-2563EB?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="IT Support" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-0891B2?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Web Development" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-7C3AED?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Artificial Intelligence" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Automation-Smart%20Workflows-CA8A04?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" alt="Automation" />
+</p>---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express,mongodb,mysql,python,git,github,vscode&perline=7" alt="Languages and Tools" />
-</p>
+<h2 align="center">📊 GitHub Analytics</h2><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohannd-Thabet&amp;theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+</p><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohannd-Thabet&amp;theme=tokyonight" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohannd-Thabet&amp;theme=tokyonight" width="49%" alt="Languages Per Repository" />
+</p><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohannd-Thabet&amp;theme=tokyonight" width="49%" alt="Most Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohannd-Thabet&amp;theme=tokyonight&amp;utcOffset=3" width="49%" alt="Productive Time" />
+</p>---
 
-<h3 align="center">💡 Areas of Interest</h3>
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/technical-support.png" width="65" alt="IT Support" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/web-design.png" width="65" alt="Web Development" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65" alt="Artificial Intelligence" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/fluency/96/automation.png" width="65" alt="Automation" />
-</p>
-
-<p align="center">
-  <strong>IT Support</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Web Development</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Artificial Intelligence</strong>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <strong>Automation</strong>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohannd-Thabet&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohannd-Thabet&theme=tokyonight" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohannd-Thabet&theme=tokyonight" width="49%" alt="Languages Per Repository" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohannd-Thabet&theme=tokyonight" width="49%" alt="Most Commit Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohannd-Thabet&theme=tokyonight&utcOffset=3" width="49%" alt="Productive Time" />
-</p>
-
----
-
-<h2 align="center">🚀 Featured Projects 🌟</h2>
-
-- 🚚 Diesel Delivery & Supply — <a href="https://www.mazayamoq.com/">Mazaya Al-Moqbali Official Website</a>
+<h2 align="center">🚀 Featured Projects 🌟</h2>- 🚚 Diesel Delivery & Supply — <a href="https://www.mazayamoq.com/">Mazaya Al-Moqbali Official Website</a>
+  
   - A professional platform for diesel delivery and fuel supply services in Saudi Arabia.
 
 - 🏢 Concord Station — <a href="https://concordksa.com/">Concord Station Official Website</a>
+  
   - A corporate website presenting Concord Station, its identity, and services.
 
 - 🌐 Personal Portfolio — <a href="https://portfolio-omega-sandy-duqydni4r3.vercel.app/">Explore My Portfolio</a>
+  
   - A personal portfolio showcasing my skills, projects, and certifications, featuring a Full-Stack admin dashboard.
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
+<h2 align="center">📫 Connect With Me</h2><!-- First Row: 4 Social Icons --><p align="center">
   <a href="mailto:mohannad.buhari@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="58" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="45" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Mohannd-Thabet">
-    <img src="https://img.icons8.com/fluency/96/github.png" width="58" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="45" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/mohannad-al-buhari-129a35296/">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="58" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://wa.me/967777319732">
-    <img src="https://img.icons8.com/color/96/whatsapp.png" width="58" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" height="45" alt="WhatsApp" />
   </a>
-</p>
-
-<p align="center">
+</p><!-- Second Row: 4 Social Icons --><p align="center">
   <a href="https://t.me/Mohannad_Albuari">
-    <img src="https://img.icons8.com/color/96/telegram-app.png" width="58" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" height="45" alt="Telegram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/il_70_o/">
-    <img src="https://img.icons8.com/color/96/instagram-new.png" width="58" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="45" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/share/1KBDCDmaJq/">
-    <img src="https://img.icons8.com/color/96/facebook-new.png" width="58" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" height="45" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://portfolio-omega-sandy-duqydni4r3.vercel.app/">
-    <img src="https://img.icons8.com/color/96/google-logo.png" width="58" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" height="45" alt="Portfolio" />
   </a>
-</p>
+</p>---
 
----
-
-<h3 align="center">🤝 Let's Connect, Collaborate & Build Something Great!</h3>
-
-<p align="center">
+<h3 align="center">🤝 Let's Connect, Collaborate & Build Something Great!</h3><p align="center">
   <i>Always learning. Always building. Always moving forward.</i>
-</p>
-
-<p align="center">
+</p><p align="center">
   ⭐ Thanks for visiting my GitHub profile!
-</p>
-
-<p align="center">
+</p><p align="center">
   <strong>Made with ❤️ by Mohannad AL-Buhari</strong>
-</p>
-
-<!-- Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=120&section=footer" width="100%" alt="Animated Footer" />
+</p><!-- Animated Footer --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:2563EB,100:06B6D4&amp;height=120&amp;section=footer" width="100%" alt="Animated Footer" />
 </p>
 
