@@ -50,11 +50,11 @@ I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, pa
   
   - A platform for diesel delivery and fuel supply services in Saudi Arabia.
 
-- 🏢 Concord Station — "Concord Station Official Website" (https://concordksa.com/)
+- 🏢 Concord Station — "Official Concord Station Website" (https://concordksa.com/)
   
   - A website showcasing Concord Station, its identity, and services.
 
-- 🌐 Personal Portfolio — "My Personal Portfolio" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/)
+- 🌐 Personal Portfolio — "Visit My Personal Portfolio" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/)
   
   - A personal portfolio showcasing my skills, projects, and certifications, with a Full-Stack admin dashboard.
 
