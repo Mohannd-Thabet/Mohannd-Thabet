@@ -25,10 +25,13 @@
 <h2 align="center">🛠️ Languages, Technologies & Tools</h2><p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter,dart,nodejs,express,mongodb,mysql,python,git,github,vscode&amp;perline=7" alt="Languages and Tools" />
 </p><h3 align="center">💡 Areas of Interest</h3><p align="center">
-  <img src="https://img.shields.io/badge/IT%20Support-Technical%20Support-2563EB?style=for-the-badge&amp;logo=linux&amp;logoColor=white" alt="IT Support" />
+  <img src="https://img.shields.io/badge/IT%20Support-Technical%20Support-2563EB?style=for-the-badge&amp;logo=windows&amp;logoColor=white" alt="IT Support" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Web%20Development-Full%20Stack-0891B2?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="Web Development" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-AI-7C3AED?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Automation-Smart%20Workflows-CA8A04?style=for-the-badge&amp;logo= Zapier&amp;logoColor=white" alt="Automation" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Automation-Smart%20Workflows-CA8A04?style=for-the-badge&amp;logo=zapier&amp;logoColor=white" alt="Automation" />
 </p>---
 
 <h2 align="center">📊 GitHub Analytics</h2><p align="center">
@@ -55,37 +58,37 @@
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2><p align="center">
+<h2 align="center">📫 Connect With Me</h2><!-- First Row: 4 Social Icons --><p align="center">
   <a href="mailto:mohannad.buhari@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="60" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="45" alt="Gmail" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/Mohannd-Thabet">
-    <img src="https://cdn.simpleicons.org/github/F0F6FC" width="60" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="45" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/mohannad-al-buhari-129a35296/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="60" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="45" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://wa.me/967777319732">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="60" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" height="45" alt="WhatsApp" />
   </a>
-</p><p align="center">
+</p><!-- Second Row: 4 Social Icons --><p align="center">
   <a href="https://t.me/Mohannad_Albuari">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="60" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" height="45" alt="Telegram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/il_70_o/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="60" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" height="45" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.facebook.com/share/1KBDCDmaJq/">
-    <img src="https://cdn.simpleicons.org/facebook/0866FF" width="60" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" height="45" alt="Facebook" />
   </a>
-</p><p align="center">
+  &nbsp;
   <a href="https://portfolio-omega-sandy-duqydni4r3.vercel.app/">
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" height="45" alt="Portfolio" />
   </a>
 </p>---
 
