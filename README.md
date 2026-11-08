@@ -10,14 +10,15 @@
 
 👨‍💻 About
 
-I'm Mohannad AL-Buhari, an IT Engineer and 2026 graduate, passionate about technology, software development, and building practical digital solutions.
+I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, passionate about building modern web and mobile applications and developing innovative technology solutions.
 
-- 💻 Web Development: Building modern web applications using React.js, Node.js, and Express.js.
-- 📱 Mobile Development: Developing mobile applications using Flutter and Dart.
-- 🛠️ IT Support: Technical support, troubleshooting, and problem-solving.
-- 🌱 Continuous Learning: Always improving my skills and exploring new technologies.
-- 🤝 Collaboration: Open to teamwork, knowledge sharing, collaboration, and professional learning opportunities.
-- 📍 Location: Sana'a, Yemen.
+- 💻 Interested in frontend development using React.js and JavaScript.
+- ⚙️ Interested in backend development using Node.js, Express.js, and REST APIs.
+- 📱 Passionate about mobile application development using Flutter and Dart.
+- 🛠️ Interested in IT Support, technical troubleshooting, and solving hardware and software issues.
+- 🌱 Believe in continuous learning, improving technical skills, and keeping up with emerging technologies.
+- 🤝 Open to collaboration, teamwork, knowledge sharing, and professional opportunities that encourage learning, growth, and meaningful contributions to technology projects.
+- 📍 Sana'a, Yemen.
 
 ---
 
@@ -45,11 +46,17 @@ I'm Mohannad AL-Buhari, an IT Engineer and 2026 graduate, passionate about techn
 
 🚀 Featured Projects 🌟
 
-- 🚚 "Mazaya Al-Moqbali" (https://www.mazayamoq.com/) — A website for diesel delivery and supply services in Saudi Arabia.
+- 🚚 Diesel Delivery & Supply — "Mazaya Al-Moqbali Official Website" (https://www.mazayamoq.com/)
+  
+  - A platform for diesel delivery and fuel supply services in Saudi Arabia.
 
-- 🏢 "Concord Station" (https://concordksa.com/) — A website showcasing Concord Station and its services.
+- 🏢 Concord Station — "Concord Station Official Website" (https://concordksa.com/)
+  
+  - A website showcasing Concord Station, its identity, and services.
 
-- 🌐 "Personal Portfolio" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/) — A Full-Stack portfolio built with React.js, Node.js, Express.js, and MongoDB.
+- 🌐 Personal Portfolio — "My Portfolio Website" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/)
+  
+  - A personal portfolio showcasing my skills, projects, and certifications, with a Full-Stack admin dashboard.
 
 ---
 
