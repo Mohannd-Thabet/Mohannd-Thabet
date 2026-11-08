@@ -1,24 +1,23 @@
 👋 Hi, I'm Mohannad AL-Buhari
 
 <h3 align="center">
-  💻 IT Engineer | Full-Stack Web Developer | Mobile App Developer
+  💻 Mobile App Developer | Full-Stack Web Developer | AI & Automation Enthusiast
 </h3><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;IT+Support+%26+Troubleshooting;React.js+%26+JavaScript+Enthusiast;Flutter+%26+Mobile+App+Developer;AI+%26+Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Mobile+App+Developer;Full-Stack+Web+Developer;React.js+%26+JavaScript+Developer;AI+%26+Automation+Enthusiast;IT+Support+%26+Troubleshooting" alt="Typing SVG" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohannd-Thabet&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>---
 
-👨‍💻 About Me
+👨‍💻 About
 
 I'm Mohannad AL-Buhari, an IT Engineer and 2026 graduate, passionate about technology, software development, and building practical digital solutions.
 
-- 💻 Full-Stack Web Development using React.js, Node.js, and Express.js.
-- 📱 Mobile App Development using Flutter and Dart.
-- 🛠️ IT Support & Technical Troubleshooting.
-- 🤖 Interested in Artificial Intelligence (AI) and Automation.
-- 🌱 Always learning, improving my skills, and exploring new technologies.
-- 🤝 Open to collaboration, teamwork, knowledge sharing, and learning opportunities.
-- 📍 Sana'a, Yemen.
+- 💻 Web Development: Building modern web applications using React.js, Node.js, and Express.js.
+- 📱 Mobile Development: Developing mobile applications using Flutter and Dart.
+- 🛠️ IT Support: Technical support, troubleshooting, and problem-solving.
+- 🌱 Continuous Learning: Always improving my skills and exploring new technologies.
+- 🤝 Collaboration: Open to teamwork, knowledge sharing, collaboration, and professional learning opportunities.
+- 📍 Location: Sana'a, Yemen.
 
 ---
 
@@ -46,11 +45,11 @@ I'm Mohannad AL-Buhari, an IT Engineer and 2026 graduate, passionate about techn
 
 🚀 Featured Projects 🌟
 
-- 🚚 "Mazaya Al-Moqbali" (https://www.mazayamoq.com/) — Diesel delivery and supply website in Saudi Arabia.
+- 🚚 "Mazaya Al-Moqbali" (https://www.mazayamoq.com/) — A website for diesel delivery and supply services in Saudi Arabia.
 
-- 🏢 "Concord KSA" (https://concordksa.com/) — Corporate website showcasing company services and identity.
+- 🏢 "Concord Station" (https://concordksa.com/) — A website showcasing Concord Station and its services.
 
-- 🌐 "Personal Portfolio" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/) — Full-Stack portfolio built with React.js, Node.js, Express.js, and MongoDB.
+- 🌐 "Personal Portfolio" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/) — A Full-Stack portfolio built with React.js, Node.js, Express.js, and MongoDB.
 
 ---
 
