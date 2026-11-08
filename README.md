@@ -54,7 +54,7 @@ I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, pa
   
   - A website showcasing Concord Station, its identity, and services.
 
-- 🌐 Personal Portfolio — "My Portfolio Website" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/)
+- 🌐 Personal Portfolio — "My Personal Portfolio" (https://portfolio-omega-sandy-duqydni4r3.vercel.app/)
   
   - A personal portfolio showcasing my skills, projects, and certifications, with a Full-Stack admin dashboard.
 
