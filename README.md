@@ -1,12 +1,11 @@
-"Header" (https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=200&section=header&text=MOHANNAD%20AL-BUHARI&fontSize=36&fontColor=FFFFFF&animation=fadeIn)
-
-<h3 align="center">
+<!-- Animated Header --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:2563EB,100:06B6D4&amp;height=200&amp;section=header&amp;text=MOHANNAD%20AL-BUHARI&amp;fontSize=36&amp;fontColor=FFFFFF&amp;animation=fadeIn" width="100%" alt="Mohannad AL-Buhari Header" />
+</p><h3 align="center">
   💻 Mobile App Developer | Full-Stack Web Developer | AI & Automation Enthusiast
 </h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Modern+Web+Applications;Developing+Mobile+Experiences;Exploring+AI+%26+Automation;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohannd-Thabet&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views" />
-</p><p align="center">
   <img src="https://img.shields.io/badge/IT%20Engineer-2026%20Graduate-2563EB?style=for-the-badge" alt="IT Engineer" />
   <img src="https://img.shields.io/badge/Location-Sanaa%2C%20Yemen-06B6D4?style=for-the-badge" alt="Location" />
 </p>---
@@ -33,10 +32,9 @@
 </p>---
 
 <h2 align="center">📊 GitHub Analytics</h2><p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohannd-Thabet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannd-Thabet&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohannd-Thabet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="95%" alt="GitHub Statistics" />
 </p><p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=Mohannd-Thabet&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannd-Thabet&layout=compact&theme=tokyonight&hide_border=true" width="75%" alt="Most Used Languages" />
 </p>---
 
 <h2 align="center">🚀 Featured Projects 🌟</h2>- 🚚 Diesel Delivery & Supply — <a href="https://www.mazayamoq.com/">Mazaya Al-Moqbali Official Website</a>
@@ -89,5 +87,7 @@
   ⭐ Thanks for visiting my GitHub profile!
 </p><p align="center">
   <strong>Made with ❤️ by Mohannad AL-Buhari</strong>
-</p>"Footer" (https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:06B6D4&height=120&section=footer)
+</p><!-- Animated Footer --><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:111827,50:2563EB,100:06B6D4&amp;height=120&amp;section=footer" width="100%" alt="Animated Footer" />
+</p>
 
