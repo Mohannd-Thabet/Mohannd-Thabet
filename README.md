@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Location-Sanaa%2C%20Yemen-06B6D4?style=for-the-badge" alt="Location" />
 </p>---
 
-<h2 align="center">👨‍💻 About</h2>I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, passionate about building modern web and mobile applications and developing innovative technology solutions.
+<h2 align="center">👨‍💻 About Me</h2>I'm Mohannad AL-Buhari, an Information Technology Engineer and 2026 graduate, passionate about building modern web and mobile applications and developing innovative technology solutions.
 
 - 💻 Interested in frontend development using React.js and JavaScript.
 - ⚙️ Interested in backend development using Node.js, Express.js, and REST APIs.
@@ -32,9 +32,13 @@
 </p>---
 
 <h2 align="center">📊 GitHub Analytics</h2><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohannd-Thabet&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="95%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohannd-Thabet&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohannd-Thabet&layout=compact&theme=tokyonight&hide_border=true" width="75%" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohannd-Thabet&theme=tokyonight" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohannd-Thabet&theme=tokyonight" width="49%" alt="Languages Per Repository" />
+</p><p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohannd-Thabet&theme=tokyonight" width="49%" alt="Most Commit Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohannd-Thabet&theme=tokyonight&utcOffset=3" width="49%" alt="Productive Time" />
 </p>---
 
 <h2 align="center">🚀 Featured Projects 🌟</h2>- 🚚 Diesel Delivery & Supply — <a href="https://www.mazayamoq.com/">Mazaya Al-Moqbali Official Website</a>
